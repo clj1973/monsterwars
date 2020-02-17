@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: d86be75eddc90644887e5a27f6cbc607
+timeCreated: 1437202401
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: s_cotton_walk1
+    21300002: s_cotton_walk2
+    21300004: s_cotton_walk3
+    21300006: s_cotton_walk4
+    21300008: s_cotton_walk5
+    21300010: s_cotton_walk6
+    21300012: s_cotton_walk7
+    21300014: s_cotton_idel1
+    21300016: s_cotton_idel2
+    21300018: s_cotton_idel3
+    21300020: s_cotton_idel4
+    21300022: s_cotton_idel5
+    21300024: s_cotton_idel6
+    21300026: s_cotton_idel7
+    21300028: s_cotton_sprite_sheet_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 175
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: s_cotton_walk1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 594
+        width: 182
+        height: 167
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_walk2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 594
+        width: 196
+        height: 153
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_walk3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 593
+        width: 220
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_walk4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 594
+        width: 244
+        height: 125
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_walk5
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 593
+        width: 220
+        height: 139
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_walk6
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 594
+        width: 196
+        height: 153
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_walk7
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 594
+        width: 182
+        height: 167
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_idel1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 378
+        width: 182
+        height: 167
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_idel2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 378
+        width: 182
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_idel3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 379
+        width: 182
+        height: 103
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_idel4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 378
+        width: 182
+        height: 86
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_idel5
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 379
+        width: 182
+        height: 103
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_idel6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 379
+        width: 182
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_idel7
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 378
+        width: 191
+        height: 167
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: s_cotton_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 182
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
